@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<head>
+  <title>Selena Romero</title>
+    <style>
+      body 
+      {
+      text-align: center;
+      background: url("https://wallpapercave.com/wp/wp5943234.jpg");
+      background-size: cover;
+      background-position: center;
+      color: white;
+      font-family: helvetica;
+      padding: 50px;
+      }
+      p{
+          font-size: 25px;
+          text-align:center;
+      }
+       
+      input 
+        {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+        }
+      input[type="submit"] 
+        {
+       background: red;
+        color: white;
+        }
+        
+      a{
+        color: white;
+        font-size: 25px;
+        }  
+      
+      h1
+      {
+        font-size: 20px;
+        padding: 5px;
+      }
+      
+      img{
+       border-radius: 50%; 
+      }
+  
+    </style>
+</head>
+
+
+<body>
+  <img src="https://media-exp1.licdn.com/dms/image/C5603AQHbXJgmuZfyyQ/profile-displayphoto-shrink_200_200/0/1655081055592?e=1664409600&v=beta&t=jPceL-eUDpmTGzQLy_LUvHSQaXgUSGvrhgSC72hauBM"
+  > 
+  
+  <p>Hi! I'm Selena, a NYC student intersted in engineering and computer science. I love skateboarding. Say hello!</p>
+  
+  <p> 
+    I also love creating games:
+  </p>
+  
+ 
+   <p><a href="https://camisalinas24.itch.io/dragon-dodging">Flying Dragon</a></p>
+  <p><a href="https://replit.com/@SelenaRomero1/Card#card.py">Card Game</a></p>
+  
+  <h1>
+  <input type="email" placeholder="Link to your project!">
+  <input type="submit">
+  </h1>
+  
+    <h1>
+  <input type="email" placeholder="Your email">
+  <input type="submit">
+    </h1>
+</body>
